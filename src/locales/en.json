@@ -1,0 +1,18 @@
+{
+  "hello": "hello",
+  "world": "world",
+  "hello_world": "Hello, world!",
+  "create_new_project": "create new project",
+  "deploy_project": "deploy project in one click",
+  "project_name": "project name",
+  "project_description": "project description",
+  "project_type": "project type",
+  "deploy": "deploy",
+  "cancel": "cancel",
+   "name": "name",
+  "description": "description",
+  "language": "language",
+  "arabic": "Arabic",
+  "english": "English"
+
+}

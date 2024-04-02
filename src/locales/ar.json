@@ -1,0 +1,19 @@
+{
+  "hello": "مرحبا",
+  "world": "العالم",
+  "hello_world": "مرحبا العالم",
+  "create_new_project": "إنشاء مشروع جديد",
+  "deploy_project": "  نشر المشروع في ضغطة واحدة",
+  "project_name": "اسم المشروع",
+  "project_description": "وصف المشروع",
+  "project_type": "نوع المشروع",
+  "deploy": "نشر",
+  "cancel": "إلغاء",
+  "name": "الاسم",
+  "description": "الوصف",
+  "language": "اللغة",
+  "arabic": "العربية",
+  "english": "الإنجليزية"
+
+
+}
