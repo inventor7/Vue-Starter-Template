@@ -13,7 +13,7 @@ setupI18n().then(i18n => {
 
   app.use(router);
   app.use(createMetaManager(
-    
+
   ))
   app.use(i18n);
   app.use(createPinia());

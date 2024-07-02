@@ -2,6 +2,7 @@
         <ClientLayout>
 
 
+<ThemeChanger />
 
                 <Card class="w-[350px]">
                         <CardHeader>

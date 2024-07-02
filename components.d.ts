@@ -30,15 +30,11 @@ declare module 'vue' {
     DropdownMenuSubContent: typeof import('./src/components/ui/dropdown-menu/DropdownMenuSubContent.vue')['default']
     DropdownMenuSubTrigger: typeof import('./src/components/ui/dropdown-menu/DropdownMenuSubTrigger.vue')['default']
     DropdownMenuTrigger: typeof import('./src/components/ui/dropdown-menu/DropdownMenuTrigger.vue')['default']
-    IconCrAccessibility: typeof import('~icons/carbon/accessibility')['default']
     IconMdiAccountBox: typeof import('~icons/mdi/account-box')['default']
-    IconMsAccountBox: typeof import('~icons/material-symbols/account-box')['default']
-    'IconTdesign:modeDark': typeof import('~icons/tdesign/mode-dark')['default']
     IconTdesignModeDark: typeof import('~icons/tdesign/mode-dark')['default']
     IconTdesignModeLight: typeof import('~icons/tdesign/mode-light')['default']
     Input: typeof import('./src/components/ui/input/Input.vue')['default']
     Label: typeof import('./src/components/ui/label/Label.vue')['default']
-    Layout: typeof import('./src/layouts/DefaultLayout.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     Select: typeof import('./src/components/ui/select/Select.vue')['default']
@@ -52,5 +48,7 @@ declare module 'vue' {
     SelectSeparator: typeof import('./src/components/ui/select/SelectSeparator.vue')['default']
     SelectTrigger: typeof import('./src/components/ui/select/SelectTrigger.vue')['default']
     SelectValue: typeof import('./src/components/ui/select/SelectValue.vue')['default']
+    ThemeChanger: typeof import('./src/components/app/ThemeChanger.vue')['default']
+    Translator: typeof import('./src/components/app/Translator.vue')['default']
   }
 }
